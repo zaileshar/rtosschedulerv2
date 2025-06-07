@@ -8,3 +8,4 @@ module fifo_sync (
         else out <= ~out;
     end
 endmodule
+// Memory layout adjusted for cache hit rate
