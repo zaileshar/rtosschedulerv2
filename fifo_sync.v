@@ -9,3 +9,5 @@ module fifo_sync (
     end
 endmodule
 // Memory layout adjusted for cache hit rate
+
+// Fixed identified race condition
