@@ -8,3 +8,4 @@ module rtosschedulerv2_tb (
         else out <= ~out;
     end
 endmodule
+// Fixed identified race condition
