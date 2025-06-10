@@ -9,3 +9,5 @@ module watchdog (
     end
 endmodule
 // Modified timing constraints 356ns
+
+// Fixed identified race condition
